@@ -1,0 +1,6 @@
+boto3
+awscli
+streamlit
+python-docx
+faiss-cpu
+numpy
