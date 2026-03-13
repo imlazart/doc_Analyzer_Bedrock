@@ -3,7 +3,7 @@ import boto3
 #import json
 
 
-KB_ID = "TLVUXRKVJF"
+KB_ID = "********"
 
 bedrock_agent = boto3.client("bedrock-agent-runtime",region_name="us-east-1")
 
