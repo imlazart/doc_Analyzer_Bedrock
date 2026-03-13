@@ -188,7 +188,7 @@ https://github.com/imlazart/doc_Analyzer_Bedrock
 
 **Lazar Thomas**
 
-Passionate about **Generative AI, Cloud Computing, and AI-powered applications.**
+Passionate about **Generative AI, Retrieval Augumented Generation and AI-powered applications.**
 
 ---
 
